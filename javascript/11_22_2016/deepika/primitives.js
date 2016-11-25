@@ -23,6 +23,9 @@ var isfalse = false;
 console.log("isfalse : "+isfalse);
 
 var undefinedVar =undefined;
+]gg]aaaaaaaaaaahj[wl./c ds
+
+
 
 console.log("undefined value : "+ undefinedVar);
 
